@@ -5,12 +5,11 @@
 The goal of this exercise was to write, test, and deploy the "bad" banking application to the AWS.
 
 ### **Description**<br>
-In progress
+Functionality, testing and deployment on AW3 3.
+https://angela-apontebankingapplication.s3.amazonaws.com/index.html#/
 
+Form/Validation/StoringUserData
 
-
-<h3>Usage<br></h3>
-In progress
 <br>
 
 <h3>Support:+1:<br></h3>
